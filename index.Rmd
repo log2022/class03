@@ -62,28 +62,6 @@ xaringanExtra::use_extra_styles(
 xaringanExtra::use_scribble()
 ```
 
-
-
-
-.can-edit[
-## Grupos de trabalho
-.large[
-.pink[ 
-
-**Grupo 1:**  
-
-**Grupo 2:** 
-
-**Grupo 3:** 
-
-**Grupo 4:** 
-
-**Grupo 5:** 
-
-]
-]]
-
----
 class: center, middle
 
 ## Retrospecto
